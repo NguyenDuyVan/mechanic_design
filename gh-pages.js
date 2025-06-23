@@ -5,7 +5,7 @@ publish(
   ".output/public",
   {
     branch: "gh-pages",
-    repo: "https://github.com/<your-username>/<your-repo>.git",
+    repo: "https://github.com/NguyenDuyVan/mechanic_design.git",
     message: "Deploy Nuxt static site to GitHub Pages",
   },
   () => {
