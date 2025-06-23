@@ -1,0 +1,303 @@
+{
+  "nav": {
+    "overview": "概要",
+    "about": "会社紹介",
+    "fields": "事業分野",
+    "careers": "採用情報",
+    "contact": "お問い合わせ",
+    "language": "言語"
+  },
+  "home": {
+    "hero": {
+      "title": "プロフェッショナル機械設計会社",
+      "subtitle": "私たちは先進的な機械設計ソリューションを提供し、お客様のプロジェクトの性能と品質を最適化します。",
+      "cta": "サービスを見る",
+      "contact": "今すぐお問い合わせ"
+    },
+    "about": {
+      "title": "私たちについて",
+      "subtitle": "機械設計分野での長年の経験により、最適なソリューションを提供することをお約束します。",
+      "mission": {
+        "title": "ミッション",
+        "description": "高品質な機械設計ソリューションを提供し、合理的なコストでお客様の多様なニーズにお応えします。"
+      },
+      "vision": {
+        "title": "ビジョン",
+        "description": "機械設計分野における信頼できるリーディングパートナーとなり、ベトナムの産業発展に貢献します。"
+      },
+      "values": {
+        "title": "コアバリュー",
+        "description": "品質、革新、効率性、そして最高のプロフェッショナリズムでお客様にサービスを提供するコミットメント。"
+      }
+    },
+    "stats": {
+      "projects": "完了プロジェクト",
+      "clients": "信頼するお客様",
+      "experience": "年の経験",
+      "engineers": "プロフェッショナルエンジニア"
+    },
+    "technology": {
+      "cad": {
+        "title": "3D CAD設計",
+        "description": "先進的なCADソフトウェアを使用して正確な3Dモデルを作成"
+      },
+      "simulation": {
+        "title": "シミュレーション・解析",
+        "description": "技術シミュレーションを通じて設計をテストし最適化"
+      },
+      "prototyping": {
+        "title": "プロトタイプ製作",
+        "description": "設計の実現可能性をテストするためのプロトタイプを開発"
+      }
+    },
+    "projects": {
+      "title": "代表的なプロジェクト",
+      "subtitle": "私たちが実施した注目すべき機械設計プロジェクトの一部",
+      "automation": {
+        "title": "自動生産機械システム",
+        "description": "食品業界向けの自動生産ラインの設計"
+      },
+      "automotive": {
+        "title": "精密自動車部品",
+        "description": "高精度なエンジン部品の設計"
+      },
+      "medical": {
+        "title": "専用医療機器",
+        "description": "国際基準に適合した診断機器の開発"
+      }
+    },
+    "cta": {
+      "title": "プロジェクトを始める準備はできていますか？",
+      "subtitle": "今すぐお問い合わせいただき、無料相談をご利用ください"
+    }
+  },
+  "about": {
+    "title": "会社紹介",
+    "subtitle": "MechDesignについて - 機械設計分野の信頼できるパートナー",
+    "overview": {
+      "title": "MechDesignの概要",
+      "description1": "MechDesignは2014年に設立され、プロフェッショナルで革新的な機械設計ソリューションを提供することを使命としています。私たちはベトナムにおける機械設計・製品開発分野のリーディングカンパニーの一つであることを誇りに思います。",
+      "description2": "経験豊富なエンジニアチームと最新の設備により、国内外のお客様に対して150以上のプロジェクトを成功裏に実施してきました。小規模企業から大企業まで幅広く対応しています。",
+      "founded": "設立",
+      "projects": "プロジェクト"
+    },
+    "values": {
+      "title": "コアバリュー",
+      "subtitle": "私たちの活動を導く原則"
+    },
+    "mission": {
+      "title": "ミッション",
+      "description": "高品質な機械設計ソリューションを提供し、合理的なコストと最適な時間でお客様の多様なニーズにお応えします。"
+    },
+    "vision": {
+      "title": "ビジョン",
+      "description": "ベトナムおよび地域における機械設計分野の信頼できるリーディングパートナーとなり、産業の発展に貢献します。"
+    },
+    "coreValues": {
+      "title": "コアバリュー",
+      "description": "品質、革新、効率性、そして最高のプロフェッショナリズムと献身でお客様にサービスを提供するコミットメント。"
+    },
+    "leadership": {
+      "title": "経営陣",
+      "subtitle": "経験豊富でビジョンを持つリーダーシップチーム",
+      "ceo": {
+        "name": "グエン・ヴァン・ミン",
+        "position": "最高経営責任者",
+        "description": "機械設計と企業経営分野で15年以上の経験を持つ。"
+      },
+      "cto": {
+        "name": "チャン・ティ・フオン",
+        "position": "最高技術責任者",
+        "description": "CAD/CAMと技術シミュレーションの専門家として12年の経験を持つ。"
+      },
+      "head": {
+        "name": "レ・ヴァン・ドゥック",
+        "position": "設計部長",
+        "description": "産業製品設計に深い専門知識を持つ上級機械エンジニア。"
+      }
+    },
+    "office": {
+      "title": "オフィス・施設",
+      "subtitle": "現代的でプロフェッショナルな作業環境"
+    },
+    "achievements": {
+      "title": "実績・認証",
+      "subtitle": "私たちが獲得した権威ある賞と認証",
+      "award1": {
+        "title": "2023年優秀設計賞",
+        "description": "ベトナムエンジニア協会より授与"
+      },
+      "award2": {
+        "title": "ISO 9001:2015認証",
+        "description": "国際品質管理システム"
+      },
+      "award3": {
+        "title": "トップ10設計会社",
+        "description": "Vietnam Engineering Awardsによる選出"
+      },
+      "award4": {
+        "title": "労働安全認証",
+        "description": "国家労働安全基準を達成"
+      }
+    }
+  },
+  "careers": {
+    "title": "キャリア機会",
+    "subtitle": "MechDesignチームに参加し、私たちと一緒にキャリアを発展させましょう",
+    "whyJoin": {
+      "title": "なぜMechDesignを選ぶのか？",
+      "subtitle": "私たちのチームに参加する理由"
+    },
+    "benefits": {
+      "growth": {
+        "title": "キャリア開発",
+        "description": "明確な昇進機会と専門的な研修プログラム"
+      },
+      "salary": {
+        "title": "魅力的な給与・賞与",
+        "description": "競争力のある給与と業績に応じた賞与制度"
+      },
+      "team": {
+        "title": "プロフェッショナルチーム",
+        "description": "経験豊富で才能あるエンジニアと一緒に働く"
+      },
+      "balance": {
+        "title": "ワークライフバランス",
+        "description": "柔軟な作業環境と合理的な休暇制度"
+      },
+      "health": {
+        "title": "健康管理",
+        "description": "包括的な健康保険と健康管理プログラム"
+      },
+      "training": {
+        "title": "研修・開発",
+        "description": "スキル向上コースと学習支援"
+      }
+    },
+    "environment": {
+      "title": "作業環境",
+      "subtitle": "現代的で創造的な作業空間"
+    },
+    "positions": {
+      "title": "募集中のポジション",
+      "subtitle": "あなたに適したキャリア機会を探索してください"
+    },
+    "jobs": {
+      "senior": {
+        "title": "上級機械エンジニア",
+        "department": "設計部",
+        "description": "複雑な機械製品の設計・開発、プロジェクトチームのリード、お客様への技術コンサルティング。",
+        "skills": ["SolidWorks", "AutoCAD", "FEA解析"],
+        "location": "ホーチミン市",
+        "type": "フルタイム"
+      },
+      "cad": {
+        "title": "CADデザイナー",
+        "department": "設計部",
+        "description": "2D/3D技術図面の作成、製品モデリング、製造プロセスのサポート。",
+        "skills": ["AutoCAD", "Inventor", "3Dモデリング"],
+        "location": "ホーチミン市",
+        "type": "フルタイム"
+      },
+      "pm": {
+        "title": "プロジェクトマネージャー",
+        "department": "管理部",
+        "description": "設計プロジェクトの調整・管理、スケジュールと品質の確保。",
+        "skills": ["プロジェクト管理", "MS Project", "アジャイル"],
+        "location": "ホーチミン市",
+        "type": "フルタイム"
+      },
+      "junior": {
+        "title": "新卒機械エンジニア",
+        "department": "設計部",
+        "description": "設計プロジェクトのサポート、シニアの指導の下での学習と専門スキルの開発。",
+        "skills": ["CADソフトウェア", "エンジニアリング基礎", "チームワーク"],
+        "location": "ホーチミン市",
+        "type": "フルタイム"
+      }
+    },
+    "apply": "応募する",
+    "process": {
+      "title": "採用プロセス",
+      "subtitle": "MechDesignチームに参加するための4つの簡単なステップ",
+      "step1": {
+        "title": "応募書類提出",
+        "description": "履歴書と志望動機書をメールまたはウェブサイトから送信"
+      },
+      "step2": {
+        "title": "書類選考",
+        "description": "HRが審査し、適格な候補者に連絡"
+      },
+      "step3": {
+        "title": "面接",
+        "description": "採用マネージャーとチームリーダーとの直接面接"
+      },
+      "step4": {
+        "title": "採用",
+        "description": "結果通知と入社手続き"
+      }
+    },
+    "cta": {
+      "title": "チームに参加する準備はできましたか？",
+      "subtitle": "キャリア機会についてさらに詳しく知るために、お気軽にお問い合わせください",
+      "button": "HR担当者に連絡"
+    }
+  },
+  "fields": {
+    "title": "事業分野",
+    "subtitle": "私たちは様々な産業分野での機械設計を専門としています",
+    "mechanical": {
+      "title": "産業機械設計",
+      "description": "高性能な産業生産のための機械システムの設計と最適化。"
+    },
+    "automation": {
+      "title": "自動化システム",
+      "description": "生産効率を向上させ、運用コストを削減する自動化ソリューションの開発。"
+    },
+    "automotive": {
+      "title": "自動車業界",
+      "description": "高精度な自動車業界向け部品およびシステムの設計。"
+    },
+    "aerospace": {
+      "title": "航空宇宙",
+      "description": "厳格な安全基準を満たす航空業界向け機械部品の設計。"
+    },
+    "energy": {
+      "title": "エネルギー",
+      "description": "再生可能エネルギーと従来型エネルギーシステムのための機械ソリューションの開発。"
+    },
+    "medical": {
+      "title": "医療",
+      "description": "国際品質基準を満たす精密医療機器の設計。"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "機械設計プロジェクトについてのご相談は、お気軽にお問い合わせください",
+    "info": {
+      "address": "住所",
+      "phone": "電話",
+      "email": "メール",
+      "hours": "営業時間"
+    },
+    "form": {
+      "title": "相談リクエストを送信",
+      "name": "お名前",
+      "email": "メール",
+      "phone": "電話番号",
+      "company": "会社名",
+      "message": "内容",
+      "send": "リクエストを送信"
+    }
+  },
+  "footer": {
+    "company": "機械設計会社",
+    "rights": "全著作権所有",
+    "links": {
+      "about": "私たちについて",
+      "services": "サービス",
+      "contact": "お問い合わせ",
+      "privacy": "プライバシーポリシー"
+    }
+  }
+}

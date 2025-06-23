@@ -1,0 +1,303 @@
+{
+  "nav": {
+    "overview": "Tổng quan",
+    "about": "Giới thiệu",
+    "fields": "Lĩnh vực hoạt động",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ",
+    "language": "Ngôn ngữ"
+  },
+  "home": {
+    "hero": {
+      "title": "Công ty Thiết kế Cơ khí Chuyên nghiệp",
+      "subtitle": "Chúng tôi cung cấp các giải pháp thiết kế cơ khí tiên tiến, tối ưu hóa hiệu suất và chất lượng cho mọi dự án của bạn.",
+      "cta": "Khám phá dịch vụ",
+      "contact": "Liên hệ ngay"
+    },
+    "about": {
+      "title": "Về Chúng Tôi",
+      "subtitle": "Với nhiều năm kinh nghiệm trong lĩnh vực thiết kế cơ khí, chúng tôi cam kết mang đến những giải pháp tối ưu nhất.",
+      "mission": {
+        "title": "Sứ mệnh",
+        "description": "Cung cấp các giải pháp thiết kế cơ khí chất lượng cao, đáp ứng nhu cầu đa dạng của khách hàng với chi phí hợp lý."
+      },
+      "vision": {
+        "title": "Tầm nhìn",
+        "description": "Trở thành đối tác tin cậy hàng đầu trong lĩnh vực thiết kế cơ khí, góp phần phát triển công nghiệp Việt Nam."
+      },
+      "values": {
+        "title": "Giá trị cốt lõi",
+        "description": "Chất lượng, đổi mới, hiệu quả và cam kết phục vụ khách hàng với sự chuyên nghiệp cao nhất."
+      }
+    },
+    "stats": {
+      "projects": "Dự án hoàn thành",
+      "clients": "Khách hàng tin tưởng",
+      "experience": "Năm kinh nghiệm",
+      "engineers": "Kỹ sư chuyên nghiệp"
+    },
+    "technology": {
+      "cad": {
+        "title": "Thiết kế CAD 3D",
+        "description": "Sử dụng phần mềm CAD tiên tiến để tạo ra các mô hình 3D chính xác"
+      },
+      "simulation": {
+        "title": "Mô phỏng & Phân tích",
+        "description": "Kiểm tra và tối ưu hóa thiết kế thông qua mô phỏng kỹ thuật"
+      },
+      "prototyping": {
+        "title": "Tạo mẫu thử nghiệm",
+        "description": "Phát triển prototype để kiểm tra tính khả thi của thiết kế"
+      }
+    },
+    "projects": {
+      "title": "Dự án tiêu biểu",
+      "subtitle": "Một số dự án thiết kế cơ khí nổi bật mà chúng tôi đã thực hiện",
+      "automation": {
+        "title": "Hệ thống máy sản xuất tự động",
+        "description": "Thiết kế dây chuyền sản xuất tự động cho ngành thực phẩm"
+      },
+      "automotive": {
+        "title": "Linh kiện ô tô chính xác",
+        "description": "Thiết kế các bộ phận động cơ với độ chính xác cao"
+      },
+      "medical": {
+        "title": "Thiết bị y tế chuyên dụng",
+        "description": "Phát triển thiết bị chẩn đoán với tiêu chuẩn quốc tế"
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng bắt đầu dự án của bạn?",
+      "subtitle": "Liên hệ với chúng tôi ngay hôm nay để được tư vấn miễn phí"
+    }
+  },
+  "about": {
+    "title": "Giới thiệu Công ty",
+    "subtitle": "Tìm hiểu về MechDesign - Đối tác tin cậy trong lĩnh vực thiết kế cơ khí",
+    "overview": {
+      "title": "Tổng quan về MechDesign",
+      "description1": "MechDesign được thành lập vào năm 2014 với sứ mệnh cung cấp các giải pháp thiết kế cơ khí chuyên nghiệp và sáng tạo. Chúng tôi tự hào là một trong những công ty hàng đầu tại Việt Nam trong lĩnh vực thiết kế và phát triển sản phẩm cơ khí.",
+      "description2": "Với đội ngũ kỹ sư giàu kinh nghiệm và trang thiết bị hiện đại, chúng tôi đã thực hiện thành công hơn 150 dự án cho các khách hàng trong và ngoài nước, từ các doanh nghiệp nhỏ đến các tập đoàn lớn.",
+      "founded": "Thành lập",
+      "projects": "Dự án"
+    },
+    "values": {
+      "title": "Giá trị cốt lõi",
+      "subtitle": "Những nguyên tắc định hướng hoạt động của chúng tôi"
+    },
+    "mission": {
+      "title": "Sứ mệnh",
+      "description": "Cung cấp các giải pháp thiết kế cơ khí chất lượng cao, đáp ứng nhu cầu đa dạng của khách hàng với chi phí hợp lý và thời gian tối ưu."
+    },
+    "vision": {
+      "title": "Tầm nhìn",
+      "description": "Trở thành đối tác tin cậy hàng đầu trong lĩnh vực thiết kế cơ khí tại Việt Nam và khu vực, góp phần thúc đẩy sự phát triển của ngành công nghiệp."
+    },
+    "coreValues": {
+      "title": "Giá trị cốt lõi",
+      "description": "Chất lượng, đổi mới, hiệu quả và cam kết phục vụ khách hàng với sự chuyên nghiệp và tận tâm cao nhất."
+    },
+    "leadership": {
+      "title": "Ban lãnh đạo",
+      "subtitle": "Đội ngũ lãnh đạo giàu kinh nghiệm và tầm nhìn",
+      "ceo": {
+        "name": "Nguyễn Văn Minh",
+        "position": "Tổng Giám đốc",
+        "description": "Hơn 15 năm kinh nghiệm trong lĩnh vực thiết kế cơ khí và quản lý doanh nghiệp."
+      },
+      "cto": {
+        "name": "Trần Thị Hương",
+        "position": "Giám đốc Công nghệ",
+        "description": "Chuyên gia về CAD/CAM và mô phỏng kỹ thuật với 12 năm kinh nghiệm."
+      },
+      "head": {
+        "name": "Lê Văn Đức",
+        "position": "Trưởng phòng Thiết kế",
+        "description": "Kỹ sư cơ khí cao cấp với chuyên môn sâu về thiết kế sản phẩm công nghiệp."
+      }
+    },
+    "office": {
+      "title": "Văn phòng & Cơ sở vật chất",
+      "subtitle": "Môi trường làm việc hiện đại và chuyên nghiệp"
+    },
+    "achievements": {
+      "title": "Thành tựu & Chứng nhận",
+      "subtitle": "Những giải thưởng và chứng nhận uy tín mà chúng tôi đã đạt được",
+      "award1": {
+        "title": "Giải thưởng Thiết kế xuất sắc 2023",
+        "description": "Được trao bởi Hiệp hội Kỹ sư Việt Nam"
+      },
+      "award2": {
+        "title": "Chứng nhận ISO 9001:2015",
+        "description": "Hệ thống quản lý chất lượng quốc tế"
+      },
+      "award3": {
+        "title": "Top 10 Công ty Thiết kế",
+        "description": "Bình chọn bởi Vietnam Engineering Awards"
+      },
+      "award4": {
+        "title": "Chứng nhận An toàn Lao động",
+        "description": "Đạt tiêu chuẩn an toàn lao động quốc gia"
+      }
+    }
+  },
+  "careers": {
+    "title": "Cơ hội Nghề nghiệp",
+    "subtitle": "Gia nhập đội ngũ MechDesign và phát triển sự nghiệp cùng chúng tôi",
+    "whyJoin": {
+      "title": "Tại sao chọn MechDesign?",
+      "subtitle": "Những lý do để bạn gia nhập đội ngũ của chúng tôi"
+    },
+    "benefits": {
+      "growth": {
+        "title": "Phát triển nghề nghiệp",
+        "description": "Cơ hội thăng tiến rõ ràng và chương trình đào tạo chuyên sâu"
+      },
+      "salary": {
+        "title": "Lương thưởng hấp dẫn",
+        "description": "Mức lương cạnh tranh và các chế độ thưởng theo hiệu quả công việc"
+      },
+      "team": {
+        "title": "Đội ngũ chuyên nghiệp",
+        "description": "Làm việc cùng những kỹ sư giàu kinh nghiệm và tài năng"
+      },
+      "balance": {
+        "title": "Cân bằng cuộc sống",
+        "description": "Môi trường làm việc linh hoạt và chế độ nghỉ phép hợp lý"
+      },
+      "health": {
+        "title": "Chăm sóc sức khỏe",
+        "description": "Bảo hiểm y tế toàn diện và chương trình chăm sóc sức khỏe"
+      },
+      "training": {
+        "title": "Đào tạo & Phát triển",
+        "description": "Các khóa học nâng cao kỹ năng và hỗ trợ học tập"
+      }
+    },
+    "environment": {
+      "title": "Môi trường làm việc",
+      "subtitle": "Không gian làm việc hiện đại và sáng tạo"
+    },
+    "positions": {
+      "title": "Vị trí đang tuyển",
+      "subtitle": "Khám phá các cơ hội nghề nghiệp phù hợp với bạn"
+    },
+    "jobs": {
+      "senior": {
+        "title": "Kỹ sư Cơ khí Cao cấp",
+        "department": "Phòng Thiết kế",
+        "description": "Thiết kế và phát triển các sản phẩm cơ khí phức tạp, dẫn dắt đội nhóm dự án và tư vấn kỹ thuật cho khách hàng.",
+        "skills": ["SolidWorks", "AutoCAD", "FEA Analysis"],
+        "location": "TP. Hồ Chí Minh",
+        "type": "Toàn thời gian"
+      },
+      "cad": {
+        "title": "Nhà thiết kế CAD",
+        "department": "Phòng Thiết kế",
+        "description": "Tạo bản vẽ kỹ thuật 2D/3D, mô hình hóa sản phẩm và hỗ trợ quá trình sản xuất.",
+        "skills": ["AutoCAD", "Inventor", "3D Modeling"],
+        "location": "TP. Hồ Chí Minh",
+        "type": "Toàn thời gian"
+      },
+      "pm": {
+        "title": "Quản lý Dự án",
+        "department": "Phòng Quản lý",
+        "description": "Điều phối và quản lý các dự án thiết kế, đảm bảo tiến độ và chất lượng công việc.",
+        "skills": ["Project Management", "MS Project", "Agile"],
+        "location": "TP. Hồ Chí Minh",
+        "type": "Toàn thời gian"
+      },
+      "junior": {
+        "title": "Kỹ sư Cơ khí Mới tốt nghiệp",
+        "department": "Phòng Thiết kế",
+        "description": "Hỗ trợ các dự án thiết kế, học hỏi và phát triển kỹ năng chuyên môn dưới sự hướng dẫn của senior.",
+        "skills": ["CAD Software", "Engineering Basics", "Teamwork"],
+        "location": "TP. Hồ Chí Minh",
+        "type": "Toàn thời gian"
+      }
+    },
+    "apply": "Ứng tuyển",
+    "process": {
+      "title": "Quy trình tuyển dụng",
+      "subtitle": "4 bước đơn giản để gia nhập đội ngũ MechDesign",
+      "step1": {
+        "title": "Nộp hồ sơ",
+        "description": "Gửi CV và thư xin việc qua email hoặc website"
+      },
+      "step2": {
+        "title": "Sàng lọc hồ sơ",
+        "description": "HR sẽ xem xét và liên hệ với ứng viên phù hợp"
+      },
+      "step3": {
+        "title": "Phỏng vấn",
+        "description": "Phỏng vấn trực tiếp với hiring manager và team lead"
+      },
+      "step4": {
+        "title": "Nhận việc",
+        "description": "Thông báo kết quả và thủ tục nhận việc"
+      }
+    },
+    "cta": {
+      "title": "Sẵn sàng gia nhập đội ngũ?",
+      "subtitle": "Hãy liên hệ với chúng tôi để tìm hiểu thêm về các cơ hội nghề nghiệp",
+      "button": "Liên hệ HR"
+    }
+  },
+  "fields": {
+    "title": "Lĩnh vực Hoạt động",
+    "subtitle": "Chúng tôi chuyên về thiết kế cơ khí trong nhiều lĩnh vực công nghiệp khác nhau",
+    "mechanical": {
+      "title": "Thiết kế máy móc công nghiệp",
+      "description": "Thiết kế và tối ưu hóa các hệ thống máy móc cho sản xuất công nghiệp với hiệu suất cao."
+    },
+    "automation": {
+      "title": "Hệ thống tự động hóa",
+      "description": "Phát triển các giải pháp tự động hóa để tăng hiệu quả sản xuất và giảm chi phí vận hành."
+    },
+    "automotive": {
+      "title": "Ngành ô tô",
+      "description": "Thiết kế các bộ phận và hệ thống cho ngành công nghiệp ô tô với độ chính xác cao."
+    },
+    "aerospace": {
+      "title": "Hàng không vũ trụ",
+      "description": "Thiết kế các thành phần cơ khí cho ngành hàng không với tiêu chuẩn an toàn nghiêm ngặt."
+    },
+    "energy": {
+      "title": "Năng lượng",
+      "description": "Phát triển giải pháp cơ khí cho các hệ thống năng lượng tái tạo và truyền thống."
+    },
+    "medical": {
+      "title": "Y tế",
+      "description": "Thiết kế thiết bị y tế chính xác với tiêu chuẩn chất lượng quốc tế."
+    }
+  },
+  "contact": {
+    "title": "Thông tin Liên hệ",
+    "subtitle": "Hãy liên hệ với chúng tôi để được tư vấn về dự án thiết kế cơ khí của bạn",
+    "info": {
+      "address": "Địa chỉ",
+      "phone": "Điện thoại",
+      "email": "Email",
+      "hours": "Giờ làm việc"
+    },
+    "form": {
+      "title": "Gửi yêu cầu tư vấn",
+      "name": "Họ và tên",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "company": "Công ty",
+      "message": "Nội dung",
+      "send": "Gửi yêu cầu"
+    }
+  },
+  "footer": {
+    "company": "Công ty Thiết kế Cơ khí",
+    "rights": "Tất cả quyền được bảo lưu",
+    "links": {
+      "about": "Về chúng tôi",
+      "services": "Dịch vụ",
+      "contact": "Liên hệ",
+      "privacy": "Chính sách bảo mật"
+    }
+  }
+}
